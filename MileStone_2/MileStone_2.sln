@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MileStone_2", "MileStone_2\MileStone_2.csproj", "{B2AC2F50-7ADA-4765-945A-C592D8655E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{8E22CC24-157A-429A-BB52-D4557F06D6D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AC2F50-7ADA-4765-945A-C592D8655E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AC2F50-7ADA-4765-945A-C592D8655E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AC2F50-7ADA-4765-945A-C592D8655E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AC2F50-7ADA-4765-945A-C592D8655E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E22CC24-157A-429A-BB52-D4557F06D6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E22CC24-157A-429A-BB52-D4557F06D6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E22CC24-157A-429A-BB52-D4557F06D6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E22CC24-157A-429A-BB52-D4557F06D6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DCBEA85-6B55-4D98-AF17-E37CDD26383B}
+	EndGlobalSection
+EndGlobal

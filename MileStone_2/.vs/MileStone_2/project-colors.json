@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2ac2f50-7ada-4765-945a-c592d8655e99": {
+      "ProjectGuid": "b2ac2f50-7ada-4765-945a-c592d8655e99",
+      "DisplayName": "MileStone_2",
+      "ColorIndex": 0
+    },
+    "ff2c1999-fe49-49d4-8eb0-62cc50162ecf": {
+      "ProjectGuid": "ff2c1999-fe49-49d4-8eb0-62cc50162ecf",
+      "DisplayName": "TestProject",
+      "ColorIndex": 1
+    },
+    "8e22cc24-157a-429a-bb52-d4557f06d6d3": {
+      "ProjectGuid": "8e22cc24-157a-429a-bb52-d4557f06d6d3",
+      "DisplayName": "Test",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
